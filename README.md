@@ -59,13 +59,17 @@ Sub-Saharan Africa faces chronic food insecurity due to unpredictable crop yield
 
 **How to Run**
 **1. Run Jupyter Notebook (for training and evaluation)**
+
 pip install -r requirements.txt
+
 jupyter notebook SDG2_Crop_Yield_Prediction.ipynb
 
 Execute cells to load data, train models, compare performance, and visualize results.
 
 **2. Run Streamlit Web App (for real-time prediction)**
+
 pip install -r requirements.txt
+
 streamlit run sdg2_crop_yield_app.py
 
 Access at: http://localhost:8501
@@ -83,16 +87,21 @@ Linear Regression	4.32	19.87	0.68
 Gradient Boosting Regressor slightly outperforms Random Forest; both outperform Linear Regression.
 
 **Ethical Reflection**
+
 **Data Bias:**
+
 Regional data gaps and inconsistent data collection may affect model generalizability. Continuous retraining with diverse datasets is recommended.
 
 **Fairness:**
+
 Comparing multiple models ensures balanced and transparent predictions.
 
 **Sustainability Impact:**
+
 Empowers farmers and policymakers with data-driven insights to enhance food security and promote sustainable agriculture aligned with SDG 2.
 
 **Future Work**
+
 Incorporate satellite and remote sensing imagery (CNNs) for enhanced yield predictions.
 
 Expand datasets to include socio-economic factors impacting agriculture.
@@ -102,12 +111,15 @@ Deploy the app on cloud platforms for global access and scalability.
 Add crop-specific models and forecasts.
 
 **Why This Matters**
+
 “AI can be the bridge between innovation and sustainability.” — UN Tech Envoy
 
 This project exemplifies AI's power to solve real-world global challenges like hunger by enabling smarter, more sustainable farming systems worldwide.
 
 **Contact**
+
 Author: Jefther Simeon Afuyo
-afuyojefther@gmail.com
-+254 796 090 806
+
+Email: afuyojefther@gmail.com
+Phone No: +254 796 090 806
 GitHub: https://github.com/Jefther37
