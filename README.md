@@ -6,8 +6,11 @@
 **Course:** AI for Sustainable Development – Week 2 Assignment (PLP Academy)  
 
 **This Assignment was done in colaboration of Group 73 members:**
+
 **1. Jefther Afuyo**   *afuyojefther@gmail.com*
+
 **2. Simon Mwangi**    *mwangisimone007@gmail.com*
+
 **3. Liza Bambu**      *lizabambu544@gmail.com*
 
 ## Project Overview
