@@ -5,6 +5,10 @@
 **Author:** Jefther Simeon Afuyo  
 **Course:** AI for Sustainable Development – Week 2 Assignment (PLP Academy)  
 
+**This Assignment was done in colaboration of Group 73 members:**
+**1. Jefther Afuyo**   *afuyojefther@gmail.com*
+**2. Simon Mwangi**    *mwangisimone007@gmail.com*
+**3. Liza Bambu**      *lizabambu544@gmail.com*
 
 ## Project Overview
 
@@ -118,8 +122,12 @@ This project exemplifies AI's power to solve real-world global challenges like h
 
 **Contact**
 
-Author: Jefther Simeon Afuyo
+Authors: Jefther Simeon Afuyo
+         Simon Mwangi
+         Liza Bambu
 
 Email: afuyojefther@gmail.com
+       mwangisimone007@gmail.com
+       lizabambu544@gmail.com
 Phone No: +254 796 090 806
 GitHub: https://github.com/Jefther37
